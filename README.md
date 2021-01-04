@@ -1,10 +1,10 @@
-# [Start Bootstrap - Business Casual](https://startbootstrap.com/theme/business-casual/)
+# [Start Bootstrap - AudioLab](https://startbootstrap.com/theme/business-casual/)
 
-[Business Casual](https://startbootstrap.com/theme/business-casual/) is a multipurpose website theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+[AudioLab](https://startbootstrap.com/theme/business-casual/) is a multipurpose website theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
 ## Preview
 
-[![Business Casual Preview](https://assets.startbootstrap.com/img/screenshots/themes/business-casual.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
+[![AudioLab Preview](https://assets.startbootstrap.com/img/screenshots/themes/business-casual.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-casual/)**
 
