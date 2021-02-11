@@ -6,7 +6,7 @@
 
 body {
     font-family: Lora;
-    background-image: linear-gradient(rgba(47, 23, 15, .65), rgba(47, 23, 15, .65)), url(../img/bg.jpg);
+    background-image: linear-gradient(rgb(45, 85, 71, .45), rgb(45, 95, 71, .45)), url(../img/music.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover
@@ -75,7 +75,7 @@ p {
 }
 
 #mainNav {
-    background-color: rgba(47, 23, 15, .9);
+    background-color: rgba(10, 8, 8, 0.9);
     font-family: Raleway
 }
 
@@ -145,7 +145,7 @@ p {
 .cta {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: rgba(230, 167, 86, .9)
+    background-color: rgba(29, 26, 23, 0.9)
 }
 
 .cta .cta-inner {
@@ -211,7 +211,7 @@ p {
 
 .list-hours .list-hours-item.today {
     font-weight: 700;
-    color: #e6a756
+    color: #0e0c0a
 }
 
 @media (min-width:992px) {
@@ -226,15 +226,15 @@ p {
 }
 
 .footer {
-    background-color: rgba(47, 23, 15, .9)
+    background-color: #0e0c0a
 }
 
 .text-primary {
-    color: #e6a756!important
+    color: #dbd8d4!important
 }
 
 .bg-primary {
-    background-color: #e6a756!important
+    background-color: #0e0c0a!important
 }
 
 .btn {
@@ -242,15 +242,15 @@ p {
 }
 
 .btn-primary {
-    background-color: #e6a756;
-    border-color: #e6a756
+    background-color: #0e0c0a;
+    border-color: #0e0c0a
 }
 
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #df902a;
-    border-color: #df902a
+    background-color: #55483b;
+    border-color: #55483b
 }
 
 .font-weight-light {
