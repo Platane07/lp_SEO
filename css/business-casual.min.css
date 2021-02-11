@@ -6,7 +6,7 @@
 
 body {
     font-family: Lora;
-    background-image: linear-gradient(rgb(45, 85, 71, .45), rgb(45, 95, 71, .45)), url(../img/music.jpg);
+    background-image: linear-gradient(rgba(0, 211, 111, 0.45), rgb(45, 95, 71, .45)), url(../img/music.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover
