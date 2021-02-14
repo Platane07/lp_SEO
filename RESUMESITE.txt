@@ -1,0 +1,56 @@
+=============================================
+            Présentation du site
+=============================================
+
+ Notre site à pour but d'inciter les producteurs de musique
+ à l'achat ou la rente de "plugins" : les plugins sont des sous-logiciels
+ intégrables à leur outil de production, et permettent de synthétiser des instruments
+ ou des effets sonores.
+ Un très grand nombre de producteurs débutants se tournent vers le téléchargement
+ illégal de plugins, notre plateforme a don cpour but de leur offrir
+ des logiciels gratuits d'utilisation, et à travers le temps de les convaincre
+ de se tourner vers des alternatives comme le "rent-to-own" ou a l'achat de logiciels.
+
+
+- Index.html :
+
+  Page d'accueil du site, présente brièvement le contenu de chaque
+  pages, et donne la possibilité d'y accéder via la barre de navigation
+  ou via des liens.
+
+- plugins-gratuits.html :
+
+  Page présentant un ensemble de plug-ins pouvant être
+  téléchargé gratuitement par le visiteur,
+  chaque plugin possège une liste de tag. Sur un site plus abouti,
+  on peut envisager que ces tags pourraient être directement sélectionnés par
+  l'utilisateur afin que les plugins s'affichant y correspondent pour faciliter
+  sa recherche. Cela nous permet également de placer un grand nombre de mot-clés
+  correspondant à de grandes catégories de plug ins.
+
+  - abonnement.html :
+    Page de présentation du rent-to-own"
+
+  - boutique.html :
+    Liste de plugins payants, avec des tags associés à chaque plugin,
+    et un lien d'achat pour chacuns d'entre eux.
+
+
+=============================================
+                  Les KPI
+=============================================
+
+- Clic Intermédiaire : Rent-to-own / Plugins gratuits -> clic sur l'un des bouttons télécharger :
+    Cette donnée permet de visualiser l'efficacité de la partie 'plugins gratuits', un clic sur l'un des bouttons
+    télécharger représente un utilisateur fidélisé, pouvant potentiellementt revenir sur le site pour consulter d'autres
+    plugins gratuits, ou découvrir d'autres onglets.
+
+- Clic final : Plugins payants -> clic sur l'un des bouttons "acheter"
+    Objectif final du site : l'achat d'un plugin
+
+- 4 Secondes / Consultations multiples
+    Le temps passé sur le site est un témoin de l'intérêt stimulé par le contenu de nos pages
+
+- temps passé sur l'étape intermédiaire
+    Le temps passé sur la page rent-to-own permet d'étudier si les utilisateurs
+    sont intérêssés ou non par cette alternative à l'achat.
