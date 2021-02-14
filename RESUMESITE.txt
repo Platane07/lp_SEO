@@ -7,9 +7,9 @@
  intégrables à leur outil de production, et permettent de synthétiser des instruments
  ou des effets sonores.
  Un très grand nombre de producteurs débutants se tournent vers le téléchargement
- illégal de plugins, notre plateforme a don cpour but de leur offrir
+ illégal de plugins, notre plateforme a donc pour but de leur offrir
  des logiciels gratuits d'utilisation, et à travers le temps de les convaincre
- de se tourner vers des alternatives comme le "rent-to-own" ou a l'achat de logiciels.
+ de se tourner vers des alternatives comme le "rent-to-own" (abonnements) ou à l'achat de logiciels.
 
 
 - Index.html :
@@ -29,7 +29,7 @@
   correspondant à de grandes catégories de plug ins.
 
   - abonnement.html :
-    Page de présentation du rent-to-own"
+    Page de présentation du "rent-to-own"
 
   - boutique.html :
     Liste de plugins payants, avec des tags associés à chaque plugin,
@@ -40,12 +40,12 @@
                   Les KPI
 =============================================
 
-- Clic Intermédiaire : Rent-to-own / Plugins gratuits -> clic sur l'un des bouttons télécharger :
+- Clic Intermédiaire : Rent-to-own (abonnements) / Plugins gratuits -> clic sur l'un des boutons télécharger :
     Cette donnée permet de visualiser l'efficacité de la partie 'plugins gratuits', un clic sur l'un des bouttons
     télécharger représente un utilisateur fidélisé, pouvant potentiellementt revenir sur le site pour consulter d'autres
     plugins gratuits, ou découvrir d'autres onglets.
 
-- Clic final : Plugins payants -> clic sur l'un des bouttons "acheter"
+- Clic final : Plugins payants -> clic sur l'un des boutons "acheter"
     Objectif final du site : l'achat d'un plugin
 
 - 4 Secondes / Consultations multiples
