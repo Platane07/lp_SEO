@@ -9,14 +9,47 @@
         <lastmod>2021-02-14T15:30:51+00:00</lastmod>
         <priority>0.80</priority>
         <changefreq>never</changefreq>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/free-plugin.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/cost.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/mao.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>
-            http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/plugins-gratuit.html
+        http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/plugins-gratuit.html
         </loc>
         <lastmod>2021-02-14T15:31:39+00:00</lastmod>
         <priority>0.80</priority>
         <changefreq>never</changefreq>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/free-plugin-presentation.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/piano.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/guitar.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/reverb.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/rc20.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/ozone.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/valhalla.jpeg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/sweetcase.jpeg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>
@@ -25,6 +58,9 @@
         <lastmod>2021-02-14T15:31:27+00:00</lastmod>
         <priority>0.80</priority>
         <changefreq>never</changefreq>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/abonnement-presentation.jpg</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>
@@ -33,5 +69,17 @@
         <lastmod>2021-02-14T15:31:15+00:00</lastmod>
         <priority>1.00</priority>
         <changefreq>never</changefreq>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/presentation.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/piano.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/guitar.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/img/reverb.jpg</image:loc>
+        </image:image>
     </url>
 </urlset>
