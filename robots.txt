@@ -1,4 +1,6 @@
 User-agent: *
-Allow: /*
+Allow: /
+Disallow: /img/
+Disallow: /vendor/
 
 Sitemap: http://www-etu-info.iut2.upmf-grenoble.fr/~gavilloj/seo/projet_seo/SiteMap.xml
